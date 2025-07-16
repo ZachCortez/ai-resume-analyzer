@@ -1,87 +1,110 @@
-# Welcome to React Router!
 
-A modern, production-ready template for building full-stack React applications using React Router.
+# AI Resume Analyzer
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
-
-## Features
-
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
-
-## Getting Started
-
-### Installation
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-### Development
-
-Start the development server with HMR:
-
-```bash
-npm run dev
-```
-
-Your application will be available at `http://localhost:5173`.
-
-## Building for Production
-
-Create a production build:
-
-```bash
-npm run build
-```
-
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+## ⚡ Introduction
+AI Resume Analyzer is a modern, lightweight web application that helps users analyze and improve their resumes. Upload your PDF or DOCX file, and the app provides keyword extraction, role-specific feedback, and optimization suggestions for ATS (Applicant Tracking Systems). Built with cutting-edge front-end tools and a sleek developer-friendly architecture.
 
 ---
 
-Built with ❤️ using React Router.
+## 📋 Table of Contents
+- [Introduction](#-introduction)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [License](#-license)
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
+- **React 19** – Core UI framework
+- **React Router 7** – Seamless routing and navigation
+- **Zustand** – Global state management
+- **Tailwind CSS v4** – Utility-first styling
+- **tw-animate-css** – Simple animation utility layer
+- **TypeScript** – Type safety and developer tooling
+
+### 🔧 Tooling
+- **Vite 6** – Blazing fast dev/build tooling
+- **vite-tsconfig-paths** – Simplified TypeScript path aliases
+- **@tailwindcss/vite plugin** – Tailwind integration for Vite
+
+---
+
+## 🚀 Features
+- Upload and analyze resumes (PDF or DOCX)
+- Keyword extraction and ATS scoring suggestions
+- Highlight skill gaps based on role
+- Clean and responsive UI
+- Smooth animations and transitions
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- Node.js (v18 or higher recommended)
+- npm or yarn
+
+### Installation
+
+**Clone the repo:**
+```bash
+git clone https://github.com/ZachCortez/ai-resume-analyzer.git
+cd ai-resume-analyzer
+````
+
+**Install dependencies:**
+
+```bash
+npm install
+# or
+yarn
+```
+
+---
+
+## ▶️ Usage
+
+Start the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Navigate to `http://localhost:5173` (or whatever port Vite outputs) to use the app.
+
+---
+
+## 🗂️ Project Structure
+
+```
+ai-resume-analyzer/
+├── app/                  # Main app components, routes, and logic
+├── public/               # Static assets (icons, images, PDF worker)
+├── vite.config.ts        # Vite + Tailwind + TS path config
+├── tailwind.config.ts    # Tailwind CSS configuration
+├── tsconfig.json         # TypeScript config
+├── package.json          # Project dependencies
+└── README.md             # Project overview
+```
+
+---
+
+## 📄 License
+
+Distributed under the [MIT License](LICENSE).
+
+---
+
+💡 **Note:** This project is front-end only for now. If backend AI analysis is required, you can integrate with an API built in Python (Flask/FastAPI) or Node.js, and connect it to this UI via `fetch`/`axios`.
+
+---
+
