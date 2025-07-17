@@ -1,6 +1,5 @@
-<div>
-
-  <a href="https://ibb.co/35Gdx7kf"><img src="https://i.ibb.co/LDbRT8vQ/Screenshot-2025-07-17-150344.png" alt="Screenshot-2025-07-17-150344" ></a>
+<div align="center">
+<a href="https://ibb.co/35Gdx7kf"><img src="https://i.ibb.co/LDbRT8vQ/Screenshot-2025-07-17-150344.png" alt="Screenshot-2025-07-17-150344" border="0"></a>
 </div>
 
 # <div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="75" height="75" align="center"/> AI Resume Analyzer </div>
@@ -114,5 +113,9 @@ Distributed under the [MIT License](LICENSE).
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="35" height="35" align="center"/>**Note:** This project is front-end only for now. If backend AI analysis is required, you can integrate with an API built in Python (Flask/FastAPI) or Node.js, and connect it to this UI via `fetch`/`axios`.
 
 ---
-
-<a href="https://ibb.co/KcZFBZJs"><img src="https://i.ibb.co/4wyPCyHS/Screenshot-2025-07-17-150322.png" alt="Screenshot-2025-07-17-150322" border="0"></a><br />
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="75" height="75" />
+<a href="https://ibb.co/C58MPWB0"><img src="https://i.ibb.co/0j2FsQqJ/Screenshot-2025-07-17-163451.png" alt="Screenshot-2025-07-17-163451" border="0"></a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="75" height="75" />
+<a href="https://ibb.co/1YfHhth1"><img src="https://i.ibb.co/GfvgB4By/Screenshot-2025-07-17-163528.png" alt="Screenshot-2025-07-17-163528" border="0"></a>
+</div>
