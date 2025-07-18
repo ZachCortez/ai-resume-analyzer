@@ -12,7 +12,7 @@
 
 # <div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="75" height="75" align="center"/> AI Resume Analyzer </div>
 
-   
+
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="45" height="45" /> <a name="table">Table of Contents</a>
@@ -27,7 +27,7 @@
 
 ## <a name="introduction"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="45" height="45" align="center"/> Introduction</a>
 
- Resumind is an AI-powered Resume Analyzer with React, React Router, and Puter.js! Implemented seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. Get custom feedback and ATS scores tailored to each listing—all wrapped in a clean, reusable UI.
+Resumind is an AI-powered Resume Analyzer with React, React Router, and Puter.js! Implemented seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. Get custom feedback and ATS scores tailored to each listing—all wrapped in a clean, reusable UI.
 
 
 ## <a name="tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="45" height="45" align="center" /> Tech Stack</a>
@@ -50,19 +50,19 @@
 
 ## <a name="features"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="45" height="45" align="center" /> Features</a>
 
-👉 **Easy & convenient auth**: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" align="center"/>**Easy & convenient auth**: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
 
-👉 **Resume upload & storage**: Let users upload and store all their resumes in one place, safely and reliably.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" align="center"/>**Resume upload & storage**: Let users upload and store all their resumes in one place, safely and reliably.
 
-👉 **AI resume matching**: Provide a job listing and get an ATS score with custom feedback tailored to each resume.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" align="center"/>**AI resume matching**: Provide a job listing and get an ATS score with custom feedback tailored to each resume.
 
-👉 **Reusable, modern UI**: Built with clean, consistent components for a great-looking and maintainable interface.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" align="center"/>**Reusable, modern UI**: Built with clean, consistent components for a great-looking and maintainable interface.
 
-👉 **Code Reusability**: Leverage reusable components and a modular codebase for efficient development.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" align="center"/>**Code Reusability**: Leverage reusable components and a modular codebase for efficient development.
 
-👉 **Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" align="center"/>**Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
 
-👉 **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" align="center"/>**Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
 
 And many more, including code architecture and reusability.
 
@@ -131,8 +131,14 @@ Distributed under the [MIT License](LICENSE).
 
 ---
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="75" height="75" />
-<a href="https://ibb.co/C58MPWB0"><img src="https://i.ibb.co/0j2FsQqJ/Screenshot-2025-07-17-163451.png" alt="Screenshot-2025-07-17-163451" border="0"></a>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="75" height="75" />
-<a href="https://ibb.co/1YfHhth1"><img src="https://i.ibb.co/GfvgB4By/Screenshot-2025-07-17-163528.png" alt="Screenshot-2025-07-17-163528" border="0"></a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="95" height="95" />
+    <a href="https://ibb.co/C58MPWB0"></a>
+  <div align="center">
+    <img src="https://i.ibb.co/0j2FsQqJ/Screenshot-2025-07-17-163451.png" alt="Screenshot-2025-07-17-163451" border="0">
+  </div>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="95" height="95" />
+  <a href="https://ibb.co/1YfHhth1"></a>
+  <div align="center">
+  <img src="https://i.ibb.co/GfvgB4By/Screenshot-2025-07-17-163528.png" alt="Screenshot-2025-07-17-163528" width="200" border="0">
+  </div>
 </div>
